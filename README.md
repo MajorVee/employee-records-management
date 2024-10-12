@@ -1,6 +1,6 @@
 # Employee Records Management System
 
-Effortlessly track employee profiles, salaries, department, sick leave credits, performance analysis, peer-evaluation records
+Effortlessly track employee profiles, salaries, department members, sick leave credits, performance analysis, peer-evaluation records
 
 -----
 
