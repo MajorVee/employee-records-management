@@ -1,5 +1,6 @@
 # Employee Records Management System
-Online Internal tool wesbite for tracking employee profiles
+
+Effortlessly track employee profiles, salaries, department, sick leave credits, performance analysis, peer-evaluation records
 
 -----
 
